@@ -1,0 +1,218 @@
+ls
+ls -l
+ls -la
+man ls
+man man
+pwd
+whoami
+echo "hola"
+echo $HOME
+cd repogit/
+ls
+git clone https://github.com/DaianaColq/Repo_Colque.git
+ls
+cd Repo_Colque/ ls
+ls read me
+history 
+history > historial.txt
+ls
+cat hisorial.txt
+git status
+git add .
+git status
+git commit -m "mi primer commit"
+exit
+pwd
+echo $HOME
+ls
+ls -l
+ls la
+[200~ ssh-keygen -t ed25519
+sshh-keygen -t ed25519
+ssh-keygen -t ed25519
+ls -la
+cd .ssh
+ls
+ls -l
+cd ..
+cd .ssh
+ls
+cat id_ed25519.pub
+cd ..
+ls -l
+cd repogit
+ls -l
+git@github.com:DaianaColq/Repo_Colque.git
+ls
+ls -l
+cd repo_colque
+cd Repo_Colque
+echo "Hola"
+echo "Hola" > hola.txt
+git status
+git add .
+git push
+git status
+git commit
+git commit -m "segundo commit hola"
+git config --global user.email "daiana.colq@hotmail.com"
+git config --global Daiana  
+cd
+pwd
+ls -la
+cd .ssh
+ls -la
+cd .ssh
+ls -la
+cat id_rsa.pub
+git status
+git push
+exit
+pwd
+echo $HOME
+ls
+ls -la
+ssh-keygen
+cat $HOME/.ssh/*.pub
+ls -la
+cd .ssh
+ls
+ls -l
+cd ..
+ls -la
+cd .ssh
+ls
+ls -l 
+cat id_ed25519.pub
+cd ..
+ls -l
+cd repogit
+ls -l
+git clone git@github.com:DaianaColq/TP_AySO.git
+ls
+ls -l
+cd vmvagrant_repo
+cd TP_AySO
+cd TP_AySO/
+ls -l
+cd
+git status
+ls -l
+ls
+cd
+ls -l
+cd repogit
+ls -l
+ls
+ls -l
+cd TP_AySO
+ls
+ls -la
+ssh-keygen -t ed25519
+ls -la
+cd .ssh
+ls
+ls -l
+cat id_ed25519.pub
+cd ..
+ls -l
+cd repogit
+ls -l
+git clone git@github.com:DaianaColq/TP_AySO.git
+ls
+cd TP_AySO
+ls -l
+man rm
+ls -l
+echo "hola"
+echo "hola" > hola.txt
+ls -l
+cat hola.txt
+git status
+git add .
+git status
+cat /etc/os-release
+git commit -m "Agrego HOLA"
+whoami
+echo "Usuario=$(whoami)" > datos_usuario.txt
+git add
+git add .
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuario.txt
+cd ..
+ls -l
+pwd
+echo $HOME
+ls
+ls -la
+ssh-keygen -t ed25519
+ls -l
+ssh-keygen -t ed25519
+cd .ssh
+ls
+ls -l
+cat id_ed25519.pub
+cd ..
+ls -l
+repogit
+cd repogit
+ls -l
+git clone git@github.com:DaianaColq/TP_AySO.git
+ls -l
+TP_AySO
+cd TP_AySO
+ls -l
+echo "hola" > hola.txt
+ls -l
+cat hola.txt
+git status
+git commit -m "agrego HOLA"
+git config --global user.email "daiana.colq@hotmail.com"
+git config --global user.name "Daian Colq"
+git config --global user.name "Daiana Colq"
+bal user.name "Daiana Colq"
+git status
+git push
+git push -u origin main
+git config --global user.name "Daiana Colq"
+git config --global user.email "daiana.colq@hotmail.com"
+git config --global user
+git push
+git config user.name "Daiana Colq"
+git config user.email "daiana.colq@hotmail.com"
+git config --global --list
+git config --list
+git commit -m "agrego HOLA"
+git push -u origin main
+git push
+git push -u origin main
+echo "Usuario=$(whoami)" > datos_usuario.txt
+git add .
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+head /proc/cpuinfo | grep "model name"
+echo "Model name=$(head /proc/cpuinfo | grep "model name")" >> datos_usuario.txt
+git add .
+grep -v nologin /etc/passwd | sort -t":" -k7 | head -n 10
+echo "$(grep -v nologin /etc/passwd | sort -t":" -k7 | head -n 10)" > lista_ordenada.txt
+git add .
+git commit -m "ADD: Lista de usuarios ordenada"
+grep -v "nologin" /etc/passwd
+apropos "dump traffic"
+echo "$(apropos "dump traffic")" > comando_dump_net
+ls
+cat comando_dump_net
+git status
+git add .
+git commit -m "ADD: Comando para Capturar y analizar el trafico de red"
+cat << FIN >> README.md
+Alumno: <Daiana>
+Division: <115>
+Turno: <Mañana>
+FIN
+
+ls
+cat README.md
+git status
+git add .
+git commit -m "ADD: agregue al archivo al README alumno, división y turno."
+history
+history -a $HOME/.bash_history
